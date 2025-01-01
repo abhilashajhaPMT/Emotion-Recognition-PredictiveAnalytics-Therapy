@@ -7,5 +7,6 @@ AI-powered emotion detection during therapy sessions.
 Centralized database for managing patient records and emotional data.
 Machine learning models to predict therapeutic responses.
 Data visualization using Tableau for intuitive insights.
+
 Impact:
 The project bridges the gap between human expertise and AI's analytical capabilities, fostering evidence-based, personalized, and effective therapy sessions.
